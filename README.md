@@ -1,5 +1,7 @@
 # Google Cloud Platform document pipeline
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/db063a58-9884-4d50-bcc2-9747acd284ca.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/doc-pipeline?orgId=561911742905)  
+
 `doc-pipeline` converts DocFX YAML to HTML. You can run it locally, but it is set
 up to run periodically to generate new docs in production/staging/dev.
 
